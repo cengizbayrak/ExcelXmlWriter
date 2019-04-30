@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelXmlWriter", "ExcelXmlWriter.vbproj", "{95C35BB4-E730-4636-8B34-A6CBB841C477}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "test", "test\test.vbproj", "{D8476AE1-7AA0-4640-9F8A-7EDDC16E45EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9ABE8052-3916-4D7C-8A36-4142313F71BB}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C35BB4-E730-4636-8B34-A6CBB841C477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C35BB4-E730-4636-8B34-A6CBB841C477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C35BB4-E730-4636-8B34-A6CBB841C477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C35BB4-E730-4636-8B34-A6CBB841C477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8476AE1-7AA0-4640-9F8A-7EDDC16E45EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8476AE1-7AA0-4640-9F8A-7EDDC16E45EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8476AE1-7AA0-4640-9F8A-7EDDC16E45EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8476AE1-7AA0-4640-9F8A-7EDDC16E45EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
